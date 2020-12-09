@@ -9,7 +9,7 @@
 		</layout>
 	</appender>
 	<logger name="org.springframework" level="INFO" />
-	<logger name="com.bridgelabz.demo.springconcepts" level="TRACE" />
+	<logger name="com.bridgelabz.demo.springconcepts" level="DEBUG" />
 
 	<root>
 		<appender-ref ref="STDOUT" />
